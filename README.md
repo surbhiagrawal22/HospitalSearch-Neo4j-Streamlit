@@ -5,4 +5,4 @@ The  hospital database pertains to hospital located in Eurpoe continet.Some data
 
 One can search for the hospital with respect to tehri current location and the app will provide with the nearest hospital near to that location.
 
-Link to the application https://cryptic-everglades-76786.herokuapp.com/
+Link to the application https://searchnearesthospital.herokuapp.com/
